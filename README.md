@@ -1,13 +1,4 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=450&lines=Hi+there!+I'm+Nisha+S" />
-</h1>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Snisha2704&color=6c63ff" alt="Profile Views" />
-</p>
-
----
-
+<h1 align="center">👋 Hi, I'm Nisha Sakthivel</h1> <p align="center"> <em>Computer Science Engineering Student | Full Stack Developer Aspirant | Tech Explorer</em> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=Snisha2704&label=Profile%20Views&color=6C63FF" alt="Profile Views" /> </p>
 ## 🔬 About Me
 
 - 👩‍💼 I'm a passionate **Computer Science Engineering** student at **Manakula Vinayagar Institute of Technology**, Puducherry.
