@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=450&lines=Hi+there!+I'm+Nisha+Sakthivel" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=450&lines=Hi+there!+I'm+Nisha+S" />
 </h1>
 
 <p align="center">
@@ -83,6 +83,5 @@ Smart car using IR sensors to detect and avoid obstacles.
 ## 📚 Resume & Portfolio
 
 - 📄 [Resume (PDF)](https://github.com/Snisha2704/resume.pdf)  
-- 🌐 [Personal Portfolio Website](https://github.com/Snisha2704/portfolio) *(optional if hosted)*
 
 ---
