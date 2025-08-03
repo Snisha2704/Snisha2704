@@ -73,6 +73,7 @@ Smart car using IR sensors to detect and avoid obstacles.
 
 ## 📚 Resume & Portfolio
 
-- 📄 [Resume (PDF)]([https://github.com/Snisha2704/resume.pdf](https://drive.google.com/file/d/1YFtX-1FO7kTQzdwy4WvP3AXKU_YKeFjG/view?usp=drive_link))  
+- [📄 View My Resume](https://drive.google.com/file/d/1YFtX-1FO7kTQzdwy4WvP3AXKU_YKeFjG/view?usp=drive_link)
+
 
 ---
